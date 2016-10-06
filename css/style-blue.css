@@ -883,13 +883,13 @@ form p {
   color: #ffffff;
   background-color: #202020;
 }
-#hero .hero-start-link:hover,
+#hero .hero-start-link:hover
 #hero .hero-start-link:focus:hover {
   color: #29d2e4;
   text-decoration: none;
 }
 #hero .img-hero {
-  background-image: url('../img/mockup4.png');
+  background-image: url('../img/nightcopter.jpg');
   background-repeat: no-repeat;
   background-position: center top !important;
   text-align: center;
